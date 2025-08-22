@@ -55,8 +55,6 @@ Para auxiliar na compreensão dos motivos da utilização das ferramentas AWS, s
    - Artigo: [Amazon S3 Overview](https://aws.amazon.com/s3/)  
    - Benefícios: Armazenamento barato, seguro e escalável para arquivos e backups, com recuperação rápida.
 
-> Estes links permitem ao gerente financeiro entender como cada ferramenta ajuda a **reduzir custos, aumentar eficiência e proteger os dados da farmácia**.
-
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
